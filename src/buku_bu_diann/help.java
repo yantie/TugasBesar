@@ -6,7 +6,7 @@ package buku_bu_diann;
 
 /**
  *
- * @author Yanti
+ * @author YantiTeti
  */
 public class help extends javax.swing.JFrame {
 
